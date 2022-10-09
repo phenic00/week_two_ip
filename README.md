@@ -1,9 +1,19 @@
-# phenic's Akan Age Calculator
+# week_1_ip_project
+# Project name
+Phenic Otwori Portfolio
+# Author Name
+Phenic Kwamboka Otwori
+# Description of the project.
+The  project is about Akan Names, the naming convention that originated from Ghana.The project prompts the user to enter Date of Birth and Gender. Then the system returns the Akan depending on the gender and date. 
+## Technologies Used
+HTML
+JavaScript
+CSS
+GIT & GITHUB
+
+# Go-Live link
  
-#### This project is about the Akan age calculator, Version Date: 7th Oct 2022
- ## Author
-  phenic otwori
+https://phenic00.github.io/week_1_ip_project
  
-## Project Description
- 
-This project is my week two independent project. Its  a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+## Support and contact details
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: otworip@gmail.com to make a contribution to the code or for any assistance on the app/project.
