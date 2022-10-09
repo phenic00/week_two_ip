@@ -1,6 +1,6 @@
-# week_1_ip_project
+
 # Project name
-Phenic Otwori Portfolio
+Akan name
 # Author Name
 Phenic Kwamboka Otwori
 # Description of the project.
