@@ -28,4 +28,37 @@ function akanNames() {
 
     var genderMale = maleNames[dateExact];//USES date of birth as index to access male Names
 
+    // CAPTURES WRONG DATE INPUTES
+
+    if (dateExact >= 0 && dateExact <= 6 && birthMonth >= 0 && birthMonth <= 11 && birthYear >= 1000) {
+        //data manipulation variables
+
+        var sex = prompt("Enter Gender(MALE/FEMALE):").toUpperCase();// takes user input and converts to uper Case
+        if (sex === "M" || sex === "F" || sex === "MALE" || sex === "FEMALE") {
+            if (sex === "MALE") {
+
+                document.getElementById("myFeedback").innerHTML = ("Your Akan name is " + genderMale);//alert for male Gender
+
+            }
+
+            else {
+
+                document.getElementById("myFeedback").innerHTML = ("Your Akan name is " + genderFemale);//alert for female Gender
+
+            }
+        }
+        else {
+            alert("Invalid Gender use F/M");
+        }
+
+    }
+
+    else {
+
+        alert("Wrong Date Format...use this Format YYYY-MM-DD...e.g 2022-10-10")
+
+    }
+
+
+
 }
