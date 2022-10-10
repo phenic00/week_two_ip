@@ -21,4 +21,11 @@ function akanNames() {
     var birthMonth = birthDates.getMonth();//PICKS the month
 
     var birthYear = birthDates.getFullYear();// picks the year
+
+    //using the dates to Access Name Lists
+
+    var genderFemale = femaleNames[dateExact];
+
+    var genderMale = maleNames[dateExact];//USES date of birth as index to access male Names
+
 }
