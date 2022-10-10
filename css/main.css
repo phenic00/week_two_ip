@@ -1,0 +1,52 @@
+body {
+    width: 600px;
+            margin: 0, auto;
+            background-image: url('https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg');
+            }
+    
+      H3 {
+    
+        color: rgb(105, 19, 91);
+    
+        font-size: large;
+    
+        text-decoration: solid;
+    
+        text-decoration: underline;
+    
+        box-sizing: border-box;
+      }
+    
+      div {
+    
+        padding-top: 50px;
+    
+        padding-right: 30px;
+    
+        padding-bottom: 50px;
+    
+        padding-left: 80px;
+    
+      }
+    
+      p {
+    
+        color: rgb(105, 19, 91);
+    
+        font-style: italic;
+        text-align: justify;
+    
+      }
+       h1 {
+       color: white;
+       
+      }
+      
+    
+      h2 {
+    
+        color: #E1959B;
+    
+       
+    
+      }
